@@ -35,7 +35,7 @@ import javax.swing.*;
             game = new CrapsGame();
         }
 
-        // Called when a number is enetered into the JTextField input
+        // Called when a number is entered into the JTextField input
         //
         public void actionPerformed(ActionEvent e)
         {
